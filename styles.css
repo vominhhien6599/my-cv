@@ -193,6 +193,10 @@ h3 {
     .contact-info i {
         color: var(--text-color);
     }
+
+    .download-cv {
+        display: none;
+    }
 }
 
 .project {
